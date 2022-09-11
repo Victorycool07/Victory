@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35721882333",
+    "project_id": "victory-14a94",
+    "storage_bucket": "victory-14a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35721882333:android:660f651a0cf87c95a78934",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35721882333-r02kiuao11td88rgjrn2i733d6ih8afl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LWyiYSlXXqUCthWT6yh9yI465-f0RJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35721882333-r02kiuao11td88rgjrn2i733d6ih8afl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
